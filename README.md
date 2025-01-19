@@ -79,5 +79,5 @@ Value 9 is located at index 3
 ---
 
 ## LinkedIn Post
-Read more about my coding journey and these algorithms on my [LinkedIn post]().
+Read more about my coding journey and these algorithms on my LinkedIn post(https://www.linkedin.com/posts/muzzammil-hussain-13595a347_binarysearch-linearsearch-codingjourney-activity-7286651687996375040-NMho?utm_source=share&utm_medium=member_android).
 
