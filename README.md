@@ -6,7 +6,7 @@ This project showcases the implementation of two fundamental searching algorithm
 ---
 
 ## Purpose of the Code
-The primary goal of this project is to illustrate how to implement and utilize the Binary Search and Linear Search algorithms. By exploring these methods, you can gain a better understanding of the key principles behind data searching and algorithm efficiency.
+The aim of this code is to deliver straightforward and effective implementations of search algorithms tailored for a DSA lab project. 
 
 ---
 
